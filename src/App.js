@@ -21,7 +21,7 @@ function App() {
       fat: fat,
       muscle: muscle,
     }
-    console.log(dataObject)
+    console.log("Lisätään:" + dataObject)
   }
 
   //Handlers for fields
