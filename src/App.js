@@ -36,7 +36,9 @@ function App() {
   const handleMuscle = (event) => {
     setMuscle(event.target.value)
   }
+  //End of handlers
 
+  
   return (
   <div>
     <h1>
